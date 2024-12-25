@@ -1,0 +1,18 @@
+NAMES:
+SOURAV MINHAS
+
+LIST OF FILES:
+defs.h
+Elevator.cpp
+Elevator.h
+ElevatorControlSystem.h
+ElevatorControlSystem.cpp
+main.cpp
+mainwindow.cpp
+mainwindow.h
+mainwindow.ui
+Passenger.cpp
+Passenger.h
+
+TESTING INSTRUCTIONS: 
+Run in Qt Creator in Linux System
